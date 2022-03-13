@@ -159,7 +159,7 @@ There is still a lot that can be done in order to improve this application. My g
 # References & Citations
 
 #### [1] Google trends
-URL (checked 08.03.2022): https://trends.google.de/trends/explore?date=today%205-y&q=%2Fg%2F11c0vmgx5d,%2Fm%2F012l1vxv,%2Fg%2F11c6w0ddw9
+URL (checked 08.03.2022): https://trends.google.de/trends/explore?date=today%205-y&q=%2Fm%2F012l1vxv,%2Fg%2F11c6w0ddw9,%2Fg%2F11c0vmgx5d
 
 #### [2] NPM
 URL (checked 08.03.2022): https://www.npmtrends.com/react-vs-vue-vs-@angular/core-vs-svelte-vs-solid-js
