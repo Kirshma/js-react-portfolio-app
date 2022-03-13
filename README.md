@@ -89,12 +89,12 @@ In the following I show some of those but there is much more to be found over at
 
 ### Popularity measured by Google Trends
 According to Google Trends React is the most searched JavaScript Frontend Framework in comparison to its direct competitors Angular and Vue.js
-[[1]](#google-trends). Although the amount of searches doesn't tell us much about the frameworks quality e.g. does high volume of searches mean that people are interested in it (rather positive connotation) or is it maybe due to errors that occur with the given framework (negative connotation), it can be combined with the other statistics and metrics below to paint a clear picture as you will see.
+[[1]](#[1]-google-trends). Although the amount of searches doesn't tell us much about the frameworks quality e.g. does high volume of searches mean that people are interested in it (rather positive connotation) or is it maybe due to errors that occur with the given framework (negative connotation), it can be combined with the other statistics and metrics below to paint a clear picture as you will see.
 
 ![Google Trends of JavaScript Frontend Frameworks](src/resources/react.png)
 ### Popularity measured by npm (packet manager) downloads and dependencies
 
-Both the amount of npm packet manager downloads and dependency references are in favor of React [[2]](#npm). This is a more useful stat as this shows us which of the frameworks is downloaded the most and as such with a high likeliness also used in real projects though these can be hobby projects. So the question still stands which of the three is the most popular in a professional setting (answered by the hiring trends and developer survey below).
+Both the amount of npm packet manager downloads and dependency references are in favor of React [[2]](#[2]-npm). This is a more useful stat as this shows us which of the frameworks is downloaded the most and as such with a high likeliness also used in real projects though these can be hobby projects. So the question still stands which of the three is the most popular in a professional setting (answered by the hiring trends and developer survey below).
 
 
 ![NPM Downloads of JavaScript Frontend Frameworks](https://camo.githubusercontent.com/05b9456c95874f96dc533d97a473a202b46729e73ace9221cccef7fe90fba929/68747470733a2f2f692e696d6775722e636f6d2f694e41567257502e706e67)
@@ -102,13 +102,13 @@ Both the amount of npm packet manager downloads and dependency references are in
 ![NPM Dependencies of JavaScript Frontend Frameworks](https://camo.githubusercontent.com/f841d01111357311f0cf6000910e66a3bfb4e86042b11ebd7e20d94c2373e81b/68747470733a2f2f692e696d6775722e636f6d2f454c4159526c512e706e67)
 
 
-The same can be seen when looking at the amount of Stack Overflow related questions to each of the JavaScript frontend frameworks [[3]](#stack-overflow).
+The same can be seen when looking at the amount of Stack Overflow related questions to each of the JavaScript frontend frameworks [[3]](#[3]-stack-overflow).
 
 ![Stack Overflow Related Questions](https://camo.githubusercontent.com/023f8b74e8bfe3c1b219925910413f91ad47f0096fa28e72927d799ad94c1ee3/68747470733a2f2f692e696d6775722e636f6d2f545861563579582e706e67)
 
 ## Popularity in terms of hiring trends by HackerNews
 
-A very interesting statistic about the job market is provided by HackerNews hiring trends which shows that React is in the lead here as well, meaning your job prospects are excellent by being proficient with React [[4]](#hiring-trends). It is also clear that this has been the case over a long period of time.
+A very interesting statistic about the job market is provided by HackerNews hiring trends which shows that React is in the lead here as well, meaning your job prospects are excellent by being proficient with React [[4]](#[4]-hiring-trends). It is also clear that this has been the case over a long period of time.
 
 ![Hiring Trends](https://camo.githubusercontent.com/a88e947fd23e2783a12bc5d44c7ea74ef38697daee7721c3d2630c5ca880df26/68747470733a2f2f692e696d6775722e636f6d2f3058356f4547692e706e67)
 
@@ -121,7 +121,7 @@ This work gives us insight how those who use it the most - the developers themse
 When looking at the results we can see that of all of the developers that have used React (both red shades), a vast majority rate it positively, being the classification "Used it, would use again".
 <br>In contrast, the majority of the developers that have used Angular rate it negatively ("Used it, would not use again"). Of the developers who only have heard of Angular but have not used it (both blue shades) the majority answered that they are not interested in it despite hearing and knowing about it.
 <br>Finally Vue.js seems to be the underdog of those three because the blue shades take up the most of the bar meaning most of the participants only heard about the framework but haven't used it yet.
-Despite being rarely in use by the participants of the survey most developers still rate it in a positive way with a high amount of "Used it, would use again" and "Heard of it, would like to learn" votes [[5]](#developer-survey). 
+Despite being rarely in use by the participants of the survey most developers still rate it in a positive way with a high amount of "Used it, would use again" and "Heard of it, would like to learn" votes [[5]](#[5]-developer-survey). 
 
 ![Developer Survey](src/resources/react2.png)
 
@@ -130,7 +130,7 @@ Despite being rarely in use by the participants of the survey most developers st
 This research has informed me about the state of the art of JavaScript frontend frameworks. <br>To conclude the top three major players of this market are React, Vue.js and Angular.
 <br> The statistics and metrics regarding these three paint a clear picture that React seems to be the most popular one as well as being liked by developers that have used it.
 <br> When looking at what companies use React we can see that it is utilized in the frontends of all Meta Platforms, Inc. (formerly Facebook, Inc.) services including applications such as Whatsapp, Instagram and Oculus VR,
-as well as in the frontends of other big companies like DropBox, Netflix, PayPal, Shopify, Airbnb and more [[6]](#10-famous-websites-built-with-react-js).
+as well as in the frontends of other big companies like DropBox, Netflix, PayPal, Shopify, Airbnb and more [[6]](#[6]-10-famous-websites-built-with-react-js).
 <br>All in all this makes this framework a solid choice for your project's frontend needs.
 <br>The second place in my opinion goes to Vue.js as it seems to be a framework that benefits from being open-source, is a good alternative to React and most professionals are interested in learning about it someday if React wasn't so widespread and popular. 
 
@@ -158,27 +158,28 @@ There is still a lot that can be done in order to improve this application. My g
 
 # References & Citations
 
-#### 10 famous websites built with react js
+#### [1] Google trends
+URL (checked 08.03.2022): https://trends.google.de/trends/explore?date=today%205-y&q=%2Fg%2F11c0vmgx5d,%2Fm%2F012l1vxv,%2Fg%2F11c6w0ddw9
 
-URL (checked 08.03.2022): https://anyforsoft.com/blog/10-famous-websites-built-react-js.
-
-#### NPM
+#### [2] NPM
 URL (checked 08.03.2022): https://www.npmtrends.com/react-vs-vue-vs-@angular/core-vs-svelte-vs-solid-js
 URL (checked 08.03.2022): https://docs.google.com/spreadsheets/d/1kODyUrTPWvz5n0fpUovRdxfXsSikVHz6T3h9Kspuk8g/edit#gid=81955775
 
-#### Stack Overflow
+#### [3] Stack Overflow
 
 URL (checked 08.03.2022): https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190
 
-#### Hiring Trends
+#### [4] Hiring Trends
 
 URL (checked 08.03.2022): https://www.hntrends.com/2020/dec-year-unlike-any-other-tech-tools-didnt-change-much.html?compare=React&compare=Vue&compare=Angular+2&compare=AngularJS
 
-#### Developer Survey
+#### [5] Developer Survey
 
 URL (checked 08.03.2022): https://2018.stateofjs.com/front-end-frameworks/overview/
 
-#### Google trends
-URL (checked 08.03.2022): https://trends.google.de/trends/explore?date=today%205-y&q=%2Fg%2F11c0vmgx5d,%2Fm%2F012l1vxv,%2Fg%2F11c6w0ddw9
+#### [6] 10 famous websites built with react js
+
+URL (checked 08.03.2022): https://anyforsoft.com/blog/10-famous-websites-built-react-js.
+
 
 
