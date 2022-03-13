@@ -79,7 +79,7 @@ especially one written by a highly reputable company such as Google, Facebook or
 This cuts down the development time needed as it offers a well-thought-out system and many pre-defined features that speed up the programming task at hand.
 Such frameworks offer a thorough documentation, constant updates and improvements and are therefore, despite an initial learning-curve, the way to go in regards to professional programming.
 
-The question arises which framework to choose for your project specifically. Nowadays there are a quite few big competitors in this field namely the Angular framework by Google (Alphabet Inc.) and the open-source Vue.js JavaScript framework. This is why I started to research when and why you would choose React as your frontend framework of choice.
+The question arises which framework to choose for your project specifically. Nowadays there are quite a few big competitors in this field namely the Angular framework by Google (Alphabet Inc.) and the open-source Vue.js JavaScript framework. This is why I started to research when and why you would choose React as your frontend framework of choice.
 There's a lot to say about the intricacies of each of these three which I won't explain in detail here. Instead I would like to show some statistics and metrics in terms of the popularity of these aforementioned JavaScript frontend frameworks.
 
 One of the best resources for helping with the decision on which JavaScript frontend framework to choose that I have found is the GitHub project over at https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190.
@@ -128,7 +128,7 @@ Despite being rarely in use by the participants of the survey most developers st
 ### Conclusion and personal opinion
 
 This research has informed me about the state of the art of JavaScript frontend frameworks. <br>To conclude the top three major players of this market are React, Vue.js and Angular.
-<br> The statistics and metrics regarding these three paint a clear picture that React seems to be the most popular one as well as being liked by developers that used it.
+<br> The statistics and metrics regarding these three paint a clear picture that React seems to be the most popular one as well as being liked by developers that have used it.
 <br> When looking at what companies use React we can see that it is utilized in the frontends of all Meta Platforms, Inc. (formerly Facebook, Inc.) services including applications such as Whatsapp, Instagram and Oculus VR,
 as well as in the frontends of other big companies like DropBox, Netflix, PayPal, Shopify, Airbnb and more [[6]](#10-famous-websites-built-with-react-js).
 <br>All in all this makes this framework a solid choice for your project's frontend needs.
