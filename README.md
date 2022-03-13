@@ -163,6 +163,7 @@ URL (checked 08.03.2022): https://trends.google.de/trends/explore?date=today%205
 
 #### [2] NPM
 URL (checked 08.03.2022): https://www.npmtrends.com/react-vs-vue-vs-@angular/core-vs-svelte-vs-solid-js
+
 URL (checked 08.03.2022): https://docs.google.com/spreadsheets/d/1kODyUrTPWvz5n0fpUovRdxfXsSikVHz6T3h9Kspuk8g/edit#gid=81955775
 
 #### [3] Stack Overflow
